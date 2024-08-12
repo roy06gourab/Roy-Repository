@@ -1,4 +1,4 @@
 # Roy-Repository
 This is my first repository in github.
-<br> it means next line.
+<br>
 Author - Gourab Roy.
