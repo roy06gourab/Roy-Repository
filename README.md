@@ -1,3 +1,3 @@
 # Roy-Repository
 This is my first repository in github.<br>
-Author - Gourab Roy. Shom
+Author - Gourab Roy. <br>Shom
